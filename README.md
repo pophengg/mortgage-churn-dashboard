@@ -1,6 +1,6 @@
 # 🧸ྀི Mortgage Refinance Risk Dashboard 💗💍🦢
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([(https://mortgage-churn-dashboard.streamlit.app/)])
+[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mortgage-churn-dashboard.streamlit.app)
 
 ## 🦢 Project Overview
 Interactive Web Application สำหรับวิเคราะห์และจำลองความเสี่ยงของลูกค้าสินเชื่อที่อยู่อาศัยที่มีโอกาส **"ปิดบัญชีเพื่อรีไฟแนนซ์ (Prepayment Churn)"** ไปยังธนาคารคู่แข่ง โปรเจกต์นี้ผสานรวมแนวคิดทางการเงินเข้ากับ Data Science เพื่อช่วยผู้บริหารรักษาฐานรายได้ดอกเบี้ย (Net Interest Income) ของธนาคารอย่างมีประสิทธิภาพ
